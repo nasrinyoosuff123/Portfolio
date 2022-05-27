@@ -471,7 +471,7 @@ section .title::after {
 }
 
 /* teams section styling */
-.teams .title::after {
+/*.teams .title::after {
   content: "Colleagues";
   background: var(--secondary_color);
 }
@@ -518,7 +518,7 @@ section .title::after {
 .teams .carousel .card:hover img {
   border-color: var(--primary_color);
 }
-
+*/
 .owl-dots {
   text-align: center;
   margin-top: 20px;
