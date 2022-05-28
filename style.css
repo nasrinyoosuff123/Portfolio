@@ -252,7 +252,7 @@ section .title::after {
 
 .column-left img {
   height: 400px;
-  width: 200px;
+  width: 400px;
   object-fit: cover;
   border-radius: 6px;
 }
