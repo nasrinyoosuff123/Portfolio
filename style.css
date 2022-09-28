@@ -451,8 +451,8 @@ section .title::after {
   width: 60%;
 }
 
-.skills .skills-content .column-right .javascript::before {
-  width: 65%;
+.skills .skills-content .column-right .netframework::before {
+  width: 75%;
 }
 
 .skills .skills-content .column-right .java::before {
