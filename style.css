@@ -254,7 +254,7 @@ section .title::after {
   height: 400px;
   width: 400px;
   object-fit: cover;
-  border-radius: 6px;
+  border-radius: 10px;
 }
 
 .about .about-content .column-left {
@@ -443,6 +443,8 @@ section .title::after {
   background: crimson;
 }
 
+
+
 .skills .skills-content .column-right .html::before {
   width: 70%;
 }
@@ -469,6 +471,12 @@ section .title::after {
 .skills .skills-content .column-right .github::before {
   width: 75%;
 }
+
+/*.skills-left img {
+  height: 400px;
+  width: 500px;
+  object-fit: cover;
+  border-radius: 6px;*/
 
 /* teams section styling */
 /*.teams .title::after {
@@ -517,8 +525,8 @@ section .title::after {
 
 .teams .carousel .card:hover img {
   border-color: var(--primary_color);
-}
-*/
+}*/
+
 .owl-dots {
   text-align: center;
   margin-top: 20px;
