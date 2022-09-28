@@ -29,7 +29,8 @@ $(document).ready(function () {
     // typing animation script
     var typed = new Typed(".typing", {
       strings: [
-        "Full Stack developer",
+         "Front-end developer",
+        ".NET developer",
         "Java developer",
          "App developer",
         "UI/UX designer",
@@ -42,6 +43,7 @@ $(document).ready(function () {
     var typed = new Typed(".typing-2", {
       strings: [
         "Front-End developer",
+        ".NET developer",
         "Java developer",
         "App developer",
         "UI/UX designer",
